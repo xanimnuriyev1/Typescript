@@ -1,0 +1,13 @@
+button{
+    background-color: aquamarine;
+    border: 1px solid aquamarine;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.Map{
+    border: 1px solid rgba(128, 128, 128, 0.557);
+    width: 200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
